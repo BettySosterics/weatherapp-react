@@ -5,3 +5,13 @@
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
+
+.Weather h1 {
+  color: rgb(135, 135, 135);
+  display: block;
+  font-family: arial, sans-serif;
+  font-size: 27.4px;
+  font-weight: 500;
+  height: 32.875px;
+  line-height: 32.88px;
+}
