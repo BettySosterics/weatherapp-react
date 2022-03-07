@@ -32,10 +32,7 @@
 }
 
 .Weather canvas {
-  margin-right: 10px;
-  margin-left: 15px;
-  float: none;
-  text-align: center;
+  margin: 10px auto;
 }
 
 .Weather .temperature {

@@ -13,7 +13,7 @@ export default function WeatherInfo(props) {
         </li>
         <li>{props.data.description}</li>
       </ul>
-      <div className="row">
+      <div className="row mt-3">
         <div className="col-6">
           <div className="clearfix">
             <div className="float-left">
@@ -31,7 +31,6 @@ export default function WeatherInfo(props) {
 
         <div className="col-6">
           <ul>
-            <li>Precipitation: 12%</li>
             <li>Humidity: {props.data.humidity}%</li>
             <li>Wind: {props.data.wind} km/h</li>
           </ul>
