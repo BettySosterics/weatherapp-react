@@ -42,3 +42,15 @@
   font-weight: 400;
   float: left;
 }
+
+.btn-info {
+  background-color: #816fad;
+  border: black;
+  color: white;
+}
+
+.btn-info:hover {
+  background-color: #a490d6;
+  border-style: initial;
+  color: white;
+}
