@@ -2,12 +2,13 @@
   font-family: "Google Sans", arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
-
+  background-color: aliceblue;
+  color: #816fad;
   border-radius: 5px;
 }
 
 .Weather h1 {
-  color: rgb(32, 33, 36);
+  color: #816fad;
   display: block;
   font-size: 22px;
   font-weight: 400;
@@ -21,7 +22,7 @@
   padding: 0;
 }
 .Weather li {
-  color: rgb(112, 117, 122);
+  color: #816fad;
   display: block;
   font-family: arial, sans-serif;
   font-size: 12px;
