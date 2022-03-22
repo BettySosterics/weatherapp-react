@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Vienna" />
         <footer>
-          Coded by Betty Sosterics opensourced on{" "}
+          Coded by Betty Sosterics and is open-sourced on{" "}
           <a
             href="https://github.com/BettySosterics/weatherapp-react"
             target="_blank"
